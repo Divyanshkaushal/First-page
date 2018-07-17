@@ -1,0 +1,47 @@
+
+*
+{
+  border: 0;
+  margin:0;
+}
+.header
+{
+  height: 5%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding-top: 1%;
+  font-size:12px; 
+}
+
+
+
+
+
+.body
+{
+  height: 50%;
+  width: 100%;
+  margin-top: none;
+  background-color: slateblue;
+  color: white;
+  padding-top: 4%;
+  font-size: 40px;
+  text-align: center;
+}
+
+p
+{
+  margin-top: 1%;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+
+}
+
+#grad
+{
+  background-color: slateblue;
+}
+
+
